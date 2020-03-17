@@ -1,0 +1,15 @@
+.freelancer-container{
+    display: flex;
+}
+
+.profile-container{
+    width: 70%;
+    margin-left: 150px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+
+.cost-container{
+    padding-left: 5px;
+    text-align: center;
+}

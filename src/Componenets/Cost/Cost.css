@@ -1,0 +1,15 @@
+.cost-container{
+    float: left;
+    background-color: white;
+    border: solid snow;
+    border-radius: 5px;
+    width: 300px;
+    height: 300;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px gray;
+    position: fixed;
+}

@@ -1,0 +1,53 @@
+.single-profile{
+    float: left;
+    background-color: white;
+    border: solid snow;
+    border-radius: 5px;
+    width: 300px;
+    height: 480px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px gray;
+   
+}
+
+.single-profile p{
+    font-weight: 400;
+}
+
+.single-profile h3{
+    color: black;
+}
+
+.freelancer-button{
+    background-color: #3578E5;
+    width: 150px;
+    height: 30px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    font-weight: 800;
+    cursor: pointer;
+    color: white;
+}
+
+.description a{
+    text-decoration: none;
+    color: black;
+    
+}
+.description a:hover{
+    color: #3578E5;
+}
+
+
+.single-profile .heading{
+    line-height: 0.1;
+}
+
+.paragraph{
+    margin-left: 40px;
+    text-align: left;
+}
